@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD student in the <a href='https://www.nuin.northwestern.edu/index.html'>Northwestern University Interdepartmental Neuroscience</a> Program. 
+subtitle: PhD student in the <a href='https://www.nuin.northwestern.edu/index.html'>Northwestern University Interdepartmental Neuroscience</a> Program. 
 
 profile:
   align: right
